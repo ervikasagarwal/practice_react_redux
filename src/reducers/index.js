@@ -1,0 +1,1 @@
+import coursesReducer from './courses_reducer';  
